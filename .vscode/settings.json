@@ -15,5 +15,6 @@
     "Toastify",
     "vercel",
     "vodacom"
-  ]
+  ],
+  "git.ignoreLimitWarning": true
 }
